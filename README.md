@@ -14,7 +14,7 @@ We do NOT log which IP what download, we ONLY log requested articles id and spee
 SERVER: reader.x4w.co or news.x4w.co  
 PORT: 563 / SSL  
 USER: usntx  
-PASSWD: K3vG1oZg6B0vkJqU  
+PASSWD: Get it here - https://usenet.x4w.co/  
 ---------------------  
 Speed: 100Mbit  
 Data Limit: Unlimited  
@@ -27,7 +27,7 @@ Posting: Not Allowed
 openssl s_client -connect news.x4w.co:563  
   
 AUTHINFO USER usntx  
-AUTHINFO PASS K3vG1oZg6B0vkJqU  
+AUTHINFO PASS Get it here - https://usenet.x4w.co/  
   
 Server Response:  
 201  ==READER.X4W.CO NNTP SERViCE READY==  (posting prohibited)
